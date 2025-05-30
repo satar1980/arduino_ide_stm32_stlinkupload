@@ -18,7 +18,7 @@ dibawah komen -> # Upload menu
 
 tambahkan baris berikut:
 
-GenF4.menu.upload_method.swdMethod=Stlink (SWD)
-GenF4.menu.upload_method.swdMethod.upload.protocol=STLink
-GenF4.menu.upload_method.swdMethod.upload.options=-DCONFIG_MAPLE_MINI_NO_DISABLE_DEBUG=1 -DSERIAL_USB -DGENERIC_BOOTLOADER
-GenF4.menu.upload_method.swdMethod.upload.tool=stlink_upload
+GenF4.menu.upload_method.stlinkMethod=Stlink (SWD)
+GenF4.menu.upload_method.stlinkMethod.upload.protocol=STLink
+GenF4.menu.upload_method.stlinkMethod.upload.options=-DCONFIG_MAPLE_MINI_NO_DISABLE_DEBUG=1 -DSERIAL_USB -DGENERIC_BOOTLOADER
+GenF4.menu.upload_method.stlinkMethod.upload.tool=stlink_upload
